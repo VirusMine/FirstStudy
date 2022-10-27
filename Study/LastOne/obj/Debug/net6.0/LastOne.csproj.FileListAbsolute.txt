@@ -1,0 +1,15 @@
+F:\Репозиторий Labs\Study\LastOne\bin\Debug\net6.0\LastOne.exe
+F:\Репозиторий Labs\Study\LastOne\bin\Debug\net6.0\LastOne.deps.json
+F:\Репозиторий Labs\Study\LastOne\bin\Debug\net6.0\LastOne.runtimeconfig.json
+F:\Репозиторий Labs\Study\LastOne\bin\Debug\net6.0\LastOne.dll
+F:\Репозиторий Labs\Study\LastOne\bin\Debug\net6.0\LastOne.pdb
+F:\Репозиторий Labs\Study\LastOne\obj\Debug\net6.0\LastOne.csproj.AssemblyReference.cache
+F:\Репозиторий Labs\Study\LastOne\obj\Debug\net6.0\LastOne.GeneratedMSBuildEditorConfig.editorconfig
+F:\Репозиторий Labs\Study\LastOne\obj\Debug\net6.0\LastOne.AssemblyInfoInputs.cache
+F:\Репозиторий Labs\Study\LastOne\obj\Debug\net6.0\LastOne.AssemblyInfo.cs
+F:\Репозиторий Labs\Study\LastOne\obj\Debug\net6.0\LastOne.csproj.CoreCompileInputs.cache
+F:\Репозиторий Labs\Study\LastOne\obj\Debug\net6.0\LastOne.dll
+F:\Репозиторий Labs\Study\LastOne\obj\Debug\net6.0\refint\LastOne.dll
+F:\Репозиторий Labs\Study\LastOne\obj\Debug\net6.0\LastOne.pdb
+F:\Репозиторий Labs\Study\LastOne\obj\Debug\net6.0\LastOne.genruntimeconfig.cache
+F:\Репозиторий Labs\Study\LastOne\obj\Debug\net6.0\ref\LastOne.dll
