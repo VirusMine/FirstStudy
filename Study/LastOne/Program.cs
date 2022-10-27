@@ -84,7 +84,7 @@ namespace LastOne
             Console.Write("Введите свой возраст: ");
             string Age = Console.ReadLine();
             Console.WriteLine("\nФамилия:" + Familiya + "\nИмя:" + Name + "\nОтчество:" + otche + "\nВозраст: " + Age + ".");
-
+             
             {
                 Console.ReadKey();
             }
