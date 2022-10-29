@@ -83,7 +83,9 @@ namespace LastOne
             string otche = Console.ReadLine();
             Console.Write("Введите свой возраст: ");
             string Age = Console.ReadLine();
-            Console.WriteLine("\nФамилия: " + Familiya + "\nИмя: " + Name + "\nОтчество: " + otche + "\nВозраст: " + Age + ".");
+            Console.Write("Введите свой пин-код ");
+            string PinCode = Console.ReadLine();
+            Console.WriteLine("\nФамилия: " + Familiya + "\nИмя: " + Name + "\nОтчество: " + otche + "\nВозраст: " + Age +"\nВаш пин-код: "+ PinCode+ ".");
              
             {
                 Console.ReadKey();
